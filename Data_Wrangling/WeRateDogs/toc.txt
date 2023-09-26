@@ -1,0 +1,43 @@
+# Wrangle and Analyze Data"
+## Task Overview:
+#### The Data
+##### Enhanced Twitter Archive
+##### Additional Data via the Twitter API
+##### Image Predictions File\n"
+## Step 1: Gather Data"
+### Enhanced Twitter Archive
+### Image Predictions File
+### Additional Data via the Twitter API
+## Step 2: Assessing data"
+### Twitter Archive"
+#### First Observations:
+#### `tweet_id`"
+#### `timestamp`
+#### `source`"
+#### `text`"
+#### `retweeted_status_id`, `retweeted_status_user_id` and `retweeted_status_timestamp`
+##### `expanded_urls`
+##### `rating_numerator`"
+#### `rating_denominator`"
+##### `name`"
+#### `doggo` `floofer` `pupper` and `puppo`"
+### Image Predictions File"
+#### `tweet_id`, `jpg_url` and `img_num`"
+##### `p1`, `p1_conf` etc."
+### Tweet Extra (Additional Data from the API)"
+## Step 3: Cleaning Data
+### Tidiness:
+### Quality:
+### Twitter Archive
+#### `rating_numerator` and `rating_denominator`
+#### `source`
+#### `name`
+### Predictions
+### Extra Tweet Data
+## Combine the datasets"
+## Step 4: Storing Data"
+## Step 5: Analyzing and Visualizing Data
+### Insight One:"
+### Insight Two:"
+### Insight Three:
+## Bonus Insight

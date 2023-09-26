@@ -1,0 +1,480 @@
+'Sehr kosmisch'	'Harmonia'	655.77751
+'The Big Gundown'	'The Prodigy'	260.07465
+'Marry Me'	'Train'	205.45261
+'Blackbird'	'Sony Wonder'	218.06975
+'Best Of Both Worlds (Remastered Album Version)'	'Van Halen'	289.38404
+'Call Me If You Need Me'	'Magic Sam'	132.04853
+'Home'	'Edward Sharpe & The Magnetic Zeros'	306.31138
+'OMG'	'Usher featuring will.i.am'	395.72853
+'Candle On The Water'	'Helen Reddy'	176.50893
+'Our Song'	'Taylor Swift'	201.06404
+'Baby Boy [feat. Beyonce]'	'Sean Paul'	245.34159
+'Black Hole Sun'	'Soundgarden'	272.19546
+'Human'	'The Killers'	360.75057
+'Addicted'	'Amy Winehouse'	165.11955
+'Air'	'Steve Anderson'	265.06404
+'Superbeast'	'Rob Zombie'	220.13342
+'I Remember'	'Deadmau5 & Kaskade'	595.56526
+'Don't Be Stupid (You Know I Love You)'	'Shania Twain'	213.7073
+'We throw parties_ you throw knives'	'Los Campesinos'	138.10893
+'How Can I Live (Spanish version) (Album Version)'	'Ill Nino'	188.9171
+'Thugs Like Me'	'Mia X'	236.09424
+'Killing In The Name'	'Rage Against The Machine'	314.40934
+'Epilogue'	'Asia 2001'	150.30812
+'Endlessly'	'Muse'	228.93669
+'Torches'	'Rise Against'	221.17832
+'The Good Times Are Killing Me'	'Modest Mouse'	259.47383
+'Te Conozco Bien'	'Marc Anthony'	314.43546
+'The Calculation (Album Version)'	'Regina Spektor'	191.08526
+'Goodbye (Interlude)'	'Nina Sky'	101.92934
+'Canada'	'Five Iron Frenzy'	236.09424
+'Ven'	'Kudai'	256.62649
+'Do You Remember The First Time?'	'Pulp'	260.8322
+'I Want Your (Hands On Me)'	'SinÃÂ©ad O'Connor'	282.51383
+'Chill Out'	'Paul Brown'	232.54159
+'Something (Radio Edit)'	'Lasgo'	220.13342
+'What's A Broken Heart'	'Patty Loveless'	188.13342
+'Society'	'Eddie Vedder'	236.30322
+'Christians In Black'	'Rogue Wave'	234.13506
+'Uprising'	'Muse'	304.84853
+'Might Like You Better'	'Amanda Blank'	175.09832
+'Sheila Take A Bow'	'The Smiths'	162.24608
+'Victoria (LP Version)'	'Old 97's'	231.28771
+'Dreaming Of You'	'Selena'	316.42077
+'What's Luv? (Featuring Ja-Rule & Ashanti) (Explicit Album Version)'	'Fat Joe'	267.10159
+'Soft Revolution'	'Stars'	193.33179
+'Same Mistake  (Album Version)'	'James Blunt'	298.4224
+'Bruised And Scarred (Album Version)'	'Mayday Parade'	203.28444
+'Frisch und g'sund'	'Die Mooskirchner'	169.29914
+'Rockit'	'Gorillaz'	211.77424
+'Should've Been A Cowboy'	'Toby Keith'	208.48281
+'Little Motel'	'Modest Mouse'	284.18567
+'Gears'	'Future Rock'	239.90812
+'Superwoman (Where Were You When I Needed You) (Digitally Remastered)'	'Noel Pointer'	259.7873
+'Forgotten'	'Callenish Circle'	226.11546
+'Everlong'	'Foo Fighters'	250.14812
+'Hunter'	'Portishead'	238.73261
+'The Way I Loved You'	'Taylor Swift'	245.36771
+'Longevity'	'J-Live'	256.93995
+'Fell In Love With A Girl'	'The White Stripes'	110.47138
+'You're The One'	'Dwight Yoakam'	239.3073
+'Lies'	'The Black Keys'	238.99383
+'Got The Feelin''	'Five'	207.62077
+'Do You Call My Name'	'Ra'	319.9473
+'Gangsta's Paradise (LP Version)'	'Coolio feat. L.V.'	241.57995
+'Misery Business (Album Version)'	'Paramore'	211.51302
+'Itchy Feet'	'Leggo Beast'	321.93261
+'Gypsy'	'Nneka'	226.79465
+'Dans Ma Bulle (Edit Radio - Live 2006)'	'Diam's'	250.72281
+'Give It Up'	'Haley Bonar'	149.26322
+'Love Remains (Home Demo)'	'Mansun'	140.53832
+'Here Without You'	'3 Doors Down'	237.13914
+'Toss The Feathers (Instrumental) ( LP Version )'	'The Corrs'	168.07138
+'Big'	'Big Tymers'	197.79873
+'I Am The Killer (Album Version)'	'Thursday'	215.37914
+'Don't Call It A Comeback (Album Version)'	'Motion City Soundtrack'	111.49016
+'Hey Daddy (Daddy's Home)'	'Usher'	224.10404
+'No Siento Penas'	'Juanes'	233.40363
+'Kill The Director [Radio Edit]'	'The Wombats'	164.70159
+'I Kissed A Girl'	'Katy Perry'	179.40853
+'The Darkest Nights'	'As I Lay Dying'	231.78404
+'Undo'	'BjÃÂ¶rk'	348.57751
+'I Fought The Law (LP Version)'	'The Bobby Fuller Four'	138.60526
+'Influencia'	'Charly GarcÃÂ­a'	330.89261
+'Too Much'	'New Bomb Turks'	60.55138
+'All Hands Against His Own'	'The Black Keys'	196.91057
+'Blaues Blau'	'PeterLicht'	305.97179
+'Friends_ Lovers Or Nothing'	'John Mayer'	359.23546
+'A Song For Sleeping (LP Version)'	'Stone Temple Pilots'	255.32036
+'Head Into Tomorrow'	'Bad Lieutenant'	266.84036
+'Smile Version Revisited (Mark Ronson Remix) (Explicit)'	'Lily Allen'	192.49587
+'A Gentle Heart'	'Neil Halstead'	294.29506
+'Un DÃÂ­a Normal'	'Juanes'	222.37995
+'Ska'	'Distance'	300.87791
+'The Heretic Anthem (Album Version)'	'Slipknot'	253.98812
+'Tell Her Tonight'	'Franz Ferdinand'	137.56036
+'Suicide'	'Jedi Mind Tricks'	232.88118
+'Stella By Starlight'	'Miles Davis'	285.20444
+'Nothin' On You [feat. Bruno Mars] (Album Version)'	'B.o.B'	269.63546
+'I And Love And You'	'The Avett Brothers'	300.85179
+'Caprice viennois op.2'	'Joshua Bell / Paul Coker'	275.93098
+'Joshua's Song (1991 Digital Remaster)'	'Bad Brains'	32.31302
+'Hips Don't Lie'	'Shakira ft. Wyclef Jean'	215.90159
+'The Funeral (Album Version)'	'Band Of Horses'	321.14893
+'Ambrosia'	'Alesana'	185.33832
+'Einfach Ich'	'Samy Deluxe'	236.77342
+'Higher Messiah'	'Corona'	408.60689
+'If I Know You'	'The Presets'	267.54567
+'In Heaven'	'Pixies'	98.92526
+'Wounded Soul'	'Existone'	652.30322
+'Bold As Love'	'John Mayer'	258.16771
+'The Great ndian Desert'	'Zakir Hussain'	722.442
+'Face Of Fear'	'Jag Panzer'	200.38485
+'What You Know'	'Two Door Cinema Club'	189.67465
+'Hurt'	'Little Anthony & The Imperials'	127.42485
+'Me Lleva Tiempo'	'AndrÃÂ©s Cepeda'	211.80036
+'So What's New'	'Herb Alpert And The Tijuana Brass'	132.80608
+'Flight Of Yuri Gagarin'	'Ozma'	144.53506
+'Mooncalf'	'Ozric Tentacles'	461.21751
+'My Immortal (Album Version)'	'Evanescence'	263.78404
+'Velouria'	'Weezer'	232.85506
+'Bad Actors'	'Flying Lotus'	115.33016
+'Bitches Ain't Shit'	'Ben Folds'	250.87955
+'Unwell (Album Version)'	'matchbox twenty'	229.14567
+'Feiticeira (LP Version)'	'Deftones'	189.75302
+'Without You (Album Version)'	'Silverchair'	319.13751
+'Map Of The Problematique'	'Muse'	258.06322
+'Kotona kaikuu'	'Zen CafÃÂ©'	259.02975
+'One And Only'	'Mariah Carey / Twista'	194.7424
+'Gunpowder'	'Strike Anywhere'	120.00608
+'Had Stupid'	'Tri Sestry'	97.72363
+'If Hollywood Don't Need You'	'Don Williams'	191.03302
+'Are You Famous?'	'The Nerves'	92.86485
+'Good Morning Susie Soho'	'Ulf Wakenius'	324.15302
+'She Moves In Her Own Way'	'The Kooks'	168.72444
+'You Get What You Give'	'New Radicals'	300.82567
+'Where Eagles Have Been'	'Wolfmother'	333.7922
+'Spilt Needles (Album)'	'The Shins'	225.61914
+'Reasons Why'	'Nickel Creek'	248.58077
+'Crazy'	'Pigeon John'	180.00934
+'Love Of The Loveless'	'Eels'	211.48689
+'Sehr kosmisch'	'Harmonia'	655.77751
+'Oh No! (album version)'	'Marina And The Diamonds'	182.59546
+'The Real Slim Shady'	'Eminem'	284.86485
+'REIPPAINA KÃÂYMME REKKAIN ALLE'	'Hassisen Kone'	162.61179
+'You're The One'	'Dwight Yoakam'	239.3073
+'White Sand'	'Sunlounger'	594.15465
+'Tan bi (Heat_ Breeze_ Tenderness) / Chaleur_ brise_ tendress'	'Youssou N'Dour'	238.39302
+'Red Right Ankle'	'The Decemberists'	209.08363
+'Savage Circle'	'The Ruts'	185.75628
+'The One-Eyed Turk'	'Adrian Legg'	122.77506
+'Set In Stone'	'Bedrock'	664.0322
+'Let's Go Crazy (LP Version)'	'Prince & The Revolution'	280.00608
+'She's Coming Home'	'The Zombies'	157.33506
+'Numb'	'Portishead'	238.0273
+'Breakdown'	'Jack Johnson'	212.68853000000001
+'Let There Be Lite (Album Version)'	'Justice'	205.50485
+'Set Down Your Glass'	'Snow Patrol'	223.18975
+'Nice Weather For Ducks'	'Lemon Jelly'	238.47138
+'Tale Of Two Cities'	'The Lucksmiths'	153.70404
+'Magic'	'Ben Kweller'	188.60363
+'Take No Shhh (Original Mix)'	'Fedde le Grand Pres. Flamingo'	396.32934
+'VIKING MAN'	'Rodrigo y Gabriela'	233.40363
+'I Gotta Feeling'	'Black Eyed Peas'	289.12281
+'Canada'	'Five Iron Frenzy'	236.09424
+'Down On The Corner'	'Creedence Clearwater Revival'	164.57098
+'Camaro'	'Kings Of Leon'	186.69669
+'Unbreakable'	'Fireflight'	201.16853
+'Born To Be Wild'	'Steppenwolf'	208.14322
+'the king of wishful thinking'	'New Found Glory'	222.69342
+'Elevator'	'The Pussycat Dolls'	221.1522
+'Willie And The Hand Jive'	'Eric Clapton'	208.48281
+'Little Drummer Boy [featuring guitarist Andy McKee] (Album Version)'	'Josh Groban'	260.70159
+'Coin-Operated Boy'	'The Dresden Dolls'	286.40608
+'Where Is My Mind?'	'Pixies'	229.3024
+'I Put A Spell On You'	'Creedence Clearwater Revival'	271.882
+'Girlfriend In A Coma'	'The Smiths'	123.01016
+'No Names (Black Debbie) (Album Version)'	'Danger Doom'	187.27138
+'Love Story'	'Taylor Swift'	233.89995
+'La pachanga'	'Vilma Palma e Vampiros'	281.99138
+'Light Your Ass On Fire'	'Busta Rhymes feat. Pharrell'	220.47302
+'Above The Clouds'	'Little People'	230.1122
+'You're The One'	'Dwight Yoakam'	239.3073
+'He Can Only Hold Her'	'Amy Winehouse'	164.85832
+'Te-Ta-Te-Ta-Ta (2002 Digital Remaster)'	'Ernie K-Doe'	160.96608
+'Congratulations_ I Hate You'	'Alesana'	242.49424
+'You're The One'	'Dwight Yoakam'	239.3073
+'Premonicion'	'Gazpacho'	253.51791
+'Lock and Key'	'Black Lips'	162.76853
+'Stronger'	'Kanye West'	311.84934
+'Neon Bible'	'Arcade Fire'	136.69832
+'Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile)'	'Barry Tuckwell/Academy of St Martin-in-the-Fields/Sir Neville Marriner'	277.15873
+'I'm a Pilot'	'Fanfarlo'	270.78485
+'Empathy'	'Crystal Castles'	251.08853
+'Brigitte Bardot'	'Zeca Baleiro'	452.8322
+'Just A Boy'	'Angus & Julia Stone'	236.95628
+'4 Chords of the Apocalypse'	'Julian Casablancas'	302.47138
+'Safe 2 Say [The Incredible] (Album Version - Amended)'	'Fat Joe'	241.34485
+'Yeah!'	'Usher Featuring Lil' Jon & Ludacris'	250.38322
+'Don't Walk Away'	'Pat Benatar'	290.37669
+'Losing My Ground'	'Fergie'	248.39791
+'Supermassive Black Hole (Twilight Soundtrack Version)'	'Muse'	209.50159
+'Undercover Martyn'	'Two Door Cinema Club'	168.09751
+'Intake (Album Version)'	'Spineshank'	167.26159
+'When You Believe'	'Whitney Houston Duet With Mariah Carey'	273.34485
+'Transatlanticism'	'Death Cab for Cutie'	488.64608
+'Ces Gens LÃÂ '	'Noir DÃÂ©sir'	374.77832
+'Emergency (Album Version)'	'Paramore'	243.51302
+'Cemetery Drive (Album Version)'	'My Chemical Romance'	188.05506
+'On My Own'	'Vincent Vincent And The Villains'	154.64444
+'Run Run Run'	'Phoenix'	229.79873
+'Skills To Pay The Bills'	'Beastie Boys'	193.54077
+'These Words'	'Natasha Bedingfield'	216.65914
+'AtrÃÂ©vete te te'	'Calle 13'	239.3073
+'Modern Nature'	'Sondre Lerche'	215.71873
+'Ultimo Baile'	'Cecilia'	157.77914
+'Mayfair Song'	'Air'	258.58567
+'Canada'	'Five Iron Frenzy'	236.09424
+'Riot On An Empty Street'	'Kings Of Convenience'	245.02812
+'You're In My Heart'	'Rhonda Vincent'	142.78485
+'E Talking'	'Soulwax'	277.002
+'Mystery of You'	'Red'	227.52608
+'Overload'	'Sugababes'	275.93098
+'Say What You Say'	'Eminem / Dr. Dre'	309.83791
+'Scream'	'Michael Jackson'	278.282
+'Le Courage Des Oiseaux'	'Dominique A'	153.20771
+'My December'	'Linkin Park'	259.86567
+'Canada'	'Five Iron Frenzy'	236.09424
+'Give Me Some Of Yr Love'	'Dear Nora'	59.66322
+'Message In A Bottle'	'The Police'	290.24608
+'Microwave'	'Cocoon'	159.97342
+'A Rush Of Blood To The Head'	'Coldplay'	349.93587
+'A World Without Love'	'Peter And Gordon'	161.14893
+'Coming Back'	'Gotye'	360.33261
+'To The Sky'	'Maps'	255.9473
+'I'd Rather Be With You'	'Joshua Radin'	169.32526
+'When We Get By'	'D'Angelo'	344.94649
+'The Music Scene'	'Blockhead'	289.56689
+'Terrible Lie'	'Nine Inch Nails'	300.64281
+'Colourless Colour'	'La Roux'	208.03873
+'American Star'	'Lil Wayne / Shanell'	216.81587
+'What Else Is There?'	'RÃÂ¶yksopp'	300.14649
+'Spinning (Album Version)'	'Jack's Mannequin'	172.90404
+'Definitely Maybe'	'FM Static'	170.81424
+'Disorder [2007 Re-mastered Album Version]'	'Joy Division'	209.03138
+'Rock Star'	'N.E.R.D.'	259.23873
+'Orange TrÃÂ¤gt Nur Die MÃÂ¼llabfuhr (Go West)'	'Mickie Krause'	204.17261
+'Wave Goodbye (Real/Rhapsody Version)'	'Steadman'	234.1873
+'We Are Lost'	'The Like'	245.68118
+'Gears'	'Future Rock'	239.90812
+'Gives You Hell'	'The All-American Rejects'	213.08036
+'Born To Run'	'Bruce Springsteen'	270.54975
+'Say (All I Need)'	'OneRepublic'	230.63465
+'Meteor Shower'	'Owl City'	133.74649
+'I'm In Peace'	'Justin Nozuka'	215.64036
+'I Am Not a Robot'	'Marina And The Diamonds'	262.97424
+'Don't Let The Rain Come Down (Crooked Little Man)'	'The Serendipity Singers'	163.21261
+'Maternal Instinct'	'Haujobb'	225.12281
+'My Baby Just Cares For Me'	'Cyndi Lauper'	156.96934
+'OMG'	'Usher featuring will.i.am'	395.72853
+'Everything Counts (Live) (Single Version)'	'Depeche Mode'	397.42649
+'Especially In Michigan (Album Version)'	'Red Hot Chili Peppers'	240.32608
+'Kryptonite'	'3 Doors Down'	233.74322
+'Bread And Butter'	'The Newbeats'	109.24363
+'Dusty'	'Kings Of Leon'	260.38812
+'La Bamba'	'Los Lobos'	174.18404
+'Forever'	'Drake / Kanye West / Lil Wayne / Eminem'	357.66812
+'I'm In Love'	'Ginuwine'	244.27057
+'I'm Not A Loser'	'Descendents'	89.23383
+'BareNaked'	'Jennifer Love Hewitt'	222.17098
+'Burn Out'	'The Cinematic Orchestra'	613.74649
+'Baja por diversion (directo 05)'	'La Fuga'	217.70404
+'Hope Is... (Album Version)'	'Killswitch Engage'	259.89179
+'Day 'N' Nite'	'Kid Cudi Vs Crookers'	162.97751
+'La Llorona'	'Beirut'	213.68118
+'Dance_ Dance'	'Fall Out Boy'	181.36771
+'Lady Marmalade'	'Christina Aguilera / Lil' Kim / Mya / Pink'	264.93342
+'Algebra Of Darkness (Album Version)'	'Harold Budd'	392.85506
+'Jimbo (Album Version)'	'Eric Burdon & War'	281.93914
+'Deseret'	'Cass McCombs'	234.13506
+'I'll Be Your Man'	'The Black Keys'	139.51955
+'Christmas'	'Leona Naess'	223.03302
+'ReprÃÂ©sente'	'Alliance Ethnik'	252.21179
+'A Letra "A'	'Nando Reis'	254.6673
+'Live Like We're Dying'	'Kris Allen'	212.50567
+'Muscle Museum (Soulwax Remix)'	'Muse'	224.44363
+'Lovely Head'	'Goldfrapp'	228.0224
+'Doctor Alibi (featuring Lemmy Kilmister)'	'Slash'	189.23057
+'Stupid_ Stupid War (Dealing With It)'	'D.R.I.'	66.61179
+'Unite (2009 Digital Remaster)'	'Beastie Boys'	211.722
+'Hate'	'Cat Power'	218.3571
+'Revelry'	'Kings Of Leon'	201.79546
+'Translocation'	'Hot Water Music'	201.40363
+'Me And Charlie Talking'	'Miranda Lambert'	251.61098
+'The Boy Is Mine (Duet With Monica) (LP Version)'	'Brandy duet with Monica'	294.79138
+'How You Like Me Now?'	'The Heavy'	197.35465
+'Point/Counterpoint (Album Version)'	'Streetlight Manifesto'	327.91465
+'Murder Babe (Album)'	'Blitzen Trapper'	171.15383
+'Die For You'	'Megan McCauley'	228.57098
+'Better Together'	'Jack Johnson'	207.64689
+'Eyes As Candles'	'Passion Pit'	243.69587
+'Zagros'	'Strunz & Farah'	315.32363
+'Part 2'	'Minus The Bear'	230.45179
+'Eruption (Album Version)'	'Van Halen'	102.5824
+'Heaven Is A Truck'	'Pavement'	149.83791
+'SinceritÃÂ© Et Jalousie'	'Alliance Ethnik'	195.94404
+'Keep It Smooth'	'Pieces Of A Dream'	311.562
+'Born On The Bayou'	'Creedence Clearwater Revival'	315.42812
+'It's So Hard'	'Anouk'	268.5122
+'Amerika (Album Version)'	'Jaco Pastorius Big Band'	69.3024
+'I'm With You'	'Avril Lavigne'	222.9024
+'Circuito III'	'Gonzalo Rubalcaba'	525.47873
+'Undo'	'BjÃÂ¶rk'	348.57751
+'Casposos'	'Ska-P'	298.13506
+'Is This It'	'The Strokes'	155.34975
+'Goodnight My Love'	'Jesse Belvin'	184.63302
+'Creil City'	'Alliance Ethnik'	265.76934
+'(iii)'	'The Gerbils'	27.01016
+'Life After Death'	'KJ-52'	275.77424
+'All I Want For Christmas Is You'	'Mariah Carey'	242.96444
+'The Moon (Album version)'	'Glen Hansard & Marketa Irglova'	282.67057
+'A Teenager In Love'	'Dion & The Belmonts'	152.31955
+'Bubble Toes'	'Jack Johnson'	236.93016
+'The Maestro'	'Beastie Boys'	172.22485
+'It's My Party'	'Lesley Gore'	134.37342
+'The Next Episode'	'Dr. Dre / Snoop Dogg'	161.51465
+'Encore Break'	'Pearl Jam'	67.44771
+'Commissioning A Symphony In C'	'Cake'	179.09506
+'Rome'	'Phoenix'	278.07302
+'Seduction (album)'	'Alesana'	285.51791
+'She Moves In Her Own Way'	'The Kooks'	168.72444
+'La Petite Marie (2005 Digital Remaster)'	'Dakis'	162.48118
+'Rollin' (Air Raid Vehicle)'	'Limp Bizkit'	214.5171
+'Move On (Album Version)'	'JET'	261.3024
+'Orange TrÃÂ¤gt Nur Die MÃÂ¼llabfuhr (Go West)'	'Mickie Krause'	204.17261
+'My Piano (DJ-Kicks)'	'Hot Chip'	314.69669
+'Do That There (featuring Dude 'N Nem)'	'Yung Berg'	230.63465
+'Closer'	'Kings Of Leon'	237.53098
+'Life On Mars'	'Johan'	190.27546
+'Love And Caring'	'Crystal Castles'	138.91873
+'Lead Us'	'Thirteen Senses'	286.45832
+'Adrenalin'	'Eisbrecher'	241.89342
+'Crazy Bitch (Album Version)'	'Buckcherry'	201.79546
+'The General Specific (Album)'	'Band Of Horses'	187.0624
+'Speak Silence'	'Darkseed'	250.33098
+'O Samba E O Tango'	'Caetano Veloso'	223.97342
+'Burning'	'Maria Arredondo'	243.74812
+'All That I Need'	'Boyzone'	219.81995
+'Trouble'	'Coldplay'	273.47546
+'Unwell (Album Version)'	'matchbox twenty'	229.14567
+'On Time'	'Sussie 4'	331.33669
+'Golden Skans'	'Klaxons'	166.79138
+'Hot Thing ( LP Version )'	'Prince'	340.71465
+'You're The One'	'Dwight Yoakam'	239.3073
+'It Was Written'	'Damian Marley / Capleton / Drag-On / Stephen Marley'	361.03791
+'Genom tunna tyger'	'Markus KrunegÃÂ¥rd'	185.5473
+'I Was Made'	'Kamera'	221.33506
+'Infinite Template'	'Rainer Weichhold vs. Dandi & Ugo'	397.66159
+'Face The Blood'	'Sondre Lerche'	136.98567
+'Slow Dancing In A Burning Room'	'John Mayer'	241.99791
+'Alright'	'Mystikal'	234.89261
+'Aunque Estes Con El'	'Luis Fonsi'	278.17751
+'Two Million Voices'	'Angelic Upstarts'	144.74404
+'Count On Me (Somebody)'	'Tonic'	228.38812
+'Exile'	'Enya'	259.86567
+'Everyone's At It'	'Lily Allen'	277.83791
+'I'M Gonna Keep On Driving My Car'	'Lissi Dancefloor Disaster'	246.12526
+'Paper Planes'	'M.I.A.'	206.13179
+'Interested'	'India.Arie'	245.26322
+'This Celluloid Dream'	'AFI'	250.33098
+'She Don't Want The World'	'3 Doors Down'	243.93098
+'Points Of Authority (Album Version)'	'Linkin Park'	200.22812
+'Gang Party (Leatherface)'	'Leatherface and Hot Water Music'	228.15302
+'Release Me'	'Agnes'	186.51383
+'Island In The Sun'	'Weezer'	199.94077
+'Kun Puut Tekee SeittiÃÂ¤'	'Scandinavian Music Group'	544.88771
+'Fuori Dal Tunnel (Album Version)'	'Caparezza'	310.30812
+'Flesh For Fantasy'	'Billy Idol'	228.33587
+'Fireflies'	'Charttraxx Karaoke'	225.17506
+'Can't Help Falling In Love (Album Version) (Studio)'	'Michael BublÃÂ©'	229.04118
+'Baby I Want You'	'Amos Lee'	178.99057
+'Big Poppa'	'The Notorious B.I.G.'	252.49914
+'Azure (Album)'	'The Spinanes'	231.23546
+'Brothers & Sisters'	'Coldplay'	289.04444
+'Good Enough'	'Evanescence'	330.91873
+'Cuentos chinos'	'L-Kan'	246.49098
+'Hidden Love'	'Peter Mulvey'	216.24118
+'Promise Me'	'Beverley Craven'	219.34975
+'Boombox'	'The Lonely Island / Julian Casablancas'	192.9922
+'Just Like You'	'Three Days Grace'	186.90567
+'Woman Capture Man'	'The Ethiopians'	142.15791
+'Watch Me Shine (Album)'	'Fozzy'	218.14812
+'Booksmart Devil'	'Silversun Pickups'	265.7171
+'Lady'	'Lionel Richie'	265.89995
+'Gay Porn'	'Margaret Cho'	144.90077
+'Heart Less'	'A Day To Remember'	173.13914
+'Human Vulture'	'Armored Saint'	325.40689
+'The State Of Massachusetts'	'The Dropkick Murphys'	232.17587
+'Beat It'	'Fall Out Boy'	156.57751
+'Girl Dreams'	'Beck'	124.15955
+'Intergalactic'	'Beastie Boys'	209.81506
+'Thnks fr th Mmrs'	'Fall Out Boy'	203.96363
+'221'	'keller williams'	230.39955
+'A Hundred Moons'	'Al Gromer Khan'	324.362
+'Love Is Gonna Save Us '	'Benny Benassi Presents The Biz'	205.26975
+'Evolution (the Grand Design)'	'Symphony X'	318.37995
+'Big Apple (Metro Mix)'	'Kajagoogoo'	365.92281
+'Virtual Insanity'	'Jamiroquai'	229.40689
+'Somebody To Love'	'Justin Bieber'	220.89098
+'Save The Last Dance For Me'	'Bruce Willis'	228.80608
+'Read My Mind'	'The Killers'	246.80444
+'Cat People (Putting Out Fire)'	'Sharleen Spiteri'	201.32526
+'ReprÃÂ©sente'	'Alliance Ethnik'	252.21179
+'Lovefool'	'The Cardigans'	198.21669
+'I'm Not Gonna Teach Your Boyfriend How To Dance With You'	'Black Kids'	220.05506
+'She Is Love'	'Parachute'	146.05016
+'The Wrong Thing To Do (Album Version)'	'Mudcrutch'	249.33832
+'Sample Track 2'	'Simon Harris'	195.83955
+'Movement III - Linear Tableau with Intersecting Surprise'	'Sufjan Stevens'	248.89424
+'Green River Blues'	'Charlie Patton'	187.48036
+'Walk On Water'	'Basshunter'	223.32036
+'Fog On The Tyne (Live)'	'Lindisfarne'	352.39138
+'Jesus Walks'	'Kanye West'	196.77995
+'Retourne Chez Elle'	'Ariane Moffatt'	218.53995
+'Runaway (Album Version)'	'Linkin Park'	183.97995
+'You've Got To Hide Your Love Away (Digitally Remastered 01)'	'The Beach Boys'	175.80363
+'Don't Speak'	'No Doubt'	261.82485
+'God Is On The Radio'	'Queens Of The Stone Age'	364.90404
+'Shots'	'LMFAO / Lil Jon'	222.17098
+'High Anxiety'	'The Suicide Machines'	121.41669
+'Mariella'	'Kate Nash'	255.58159
+'If This Is Love'	'The Saturdays'	176.95302
+'Holding Out For A Hero'	'Frou Frou'	201.42975
+'Get Up Again'	'Flaw'	175.72526
+'Journey To The Past  (LP Version)'	'Liz Callaway'	175.43791
+'Finale'	'Les MisÃÂ©rables - Original London Cast'	285.85751
+'Just Dance'	'Lady GaGa / Colby O'Donis'	238.54975
+'Dance With The Devil'	'Cozy Powell'	213.4722
+'Bluish'	'Animal Collective'	313.5473
+'A New Hope'	'Blink-182'	225.12281
+'Loon Garden'	'Charisma'	707.63057
+'Thank You'	'Dido'	217.83465
+'The Whammy'	'Screamin' Jay Hawkins'	151.58812
+'All Across The World'	'Silverchair'	241.29261
+'The Ponytail Parades'	'Emery'	245.4722
+'Song Away'	'Hockey'	196.96281
+'Hurt Feelings'	'Flight Of The Conchords'	158.14485
+'Cooler Than Me'	'Mike Posner'	214.7522
+'Medlong'	'Juana Molina'	226.61179
+'So Long_ Babe (2006 Digital Remaster)'	'Nancy Sinatra'	184.63302
+'I Remember Nothing [2007 Re-mastered Album Version]'	'Joy Division'	355.18649
+'Suspicious Minds'	'Elvis Presley'	273.76281
+'Revelry'	'Kings Of Leon'	201.79546
+'Gone'	'Kanye West / Consequence / Cam'Ron'	333.34812
+'It's My Own Fault'	'Johnny Winter'	714.37016
+'I Believe I'll Go Back Home'	'Greg Brown'	285.28281
+'Naviamente'	'Wim Mertens'	240.79628
+'Can You Tell'	'Ra Ra Riot'	152.71138
+'What If I Do?'	'Foo Fighters'	302.91546
+'Colors Of The Wind'	'Vanessa Williams'	257.14893
+'(Hon Vill Ha) Puls'	'Gyllene Tider'	253.962
+'Cumbia En Do Menor'	'Ska Cubano'	281.44281
+'Marry Me'	'Train'	205.45261
+'Teenager'	'Camera Obscura'	218.69669
+'Tudo Que Eu Sempre Quis'	'Liah'	195.65669
+'Audience Of One'	'Rise Against'	245.96853
+'My Life Inside Your Heart'	'Rise Against'	182.09914
+'Let's Go All The Way (Short Blix Mix)'	'Sly Fox'	227.18649
+'Crazy On You'	'Heart'	296.14975
+'Cats In The Cradle'	'Ugly Kid Joe'	241.03138
+'You Took My Breath Away (2007 Remastered LP Version)'	'Traveling Wilburys'	201.58649
+'A Foggy Day (In London Town) (Album Version)'	'Michael BublÃÂ©'	151.53587
+'Have You Ever'	'S Club 7'	201.16853
+'Fandangu Los Llobos'	'Hevia'	256.46975
+'Voices Of Violence (Album Version)'	'Billy Talent'	190.37995
+'Courtesy Laughs'	'Phoenix'	193.85424
+'We Don't Care'	'Kanye West'	242.93832
+'Gestern_Morgen'	'Damero feat. Nevis Peak'	356.33587
+'Que Me Quedes Tu'	'Shakira'	289.98485
+'Da Baddest [Feat. Trey Songz] (Explicit Album Version)'	'Big Kuntry King'	232.75057
+
